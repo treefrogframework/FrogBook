@@ -14,7 +14,7 @@ Views are created for the Otama system when the configuration file (*development
 
 The template is written in full HTML (with the .html file extension). A "mark" is used for the tag elements where logic code is to be inserted. The presentation logic file (.otm) is written with the associated C++ code, and the mark. This is then automatically converted to C++ code when the shared view library is built.
 
-.. image:: ../images/views_conv.png
+.. image:: images/views_conv.png
 
 Basically, a set of presentation logic and template are made for every action. The file names are [action name].html and [action name].otm (case-sensitive). The files are placed in the "views/controller-name/" directory.
 
