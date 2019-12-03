@@ -1,5 +1,5 @@
 ===========================================
-TreeFrog Framework Documentation
+TreeFrog Framework Documentation (V1.6.1)
 ===========================================
 
 -------
@@ -34,10 +34,17 @@ Generating documentation
 Linux
 -----		
 
+make <language> 
+make <type>
+
 Windows
 -------
-		
+
+*to complete*		
 
 Mac
 ----
+
+make <language> 
+make <type>
 
