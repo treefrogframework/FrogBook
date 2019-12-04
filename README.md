@@ -35,7 +35,7 @@ Linux
 -----		
 
 make <language> 
-make <type>
+make <type> OR make (DEFAULT is: allhtml)
 
 Windows
 -------
@@ -46,5 +46,5 @@ Mac
 ----
 
 make <language> 
-make <type>
+make <type> OR make (DEFAULT is: allhtml)
 
