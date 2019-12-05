@@ -4,7 +4,7 @@ O/R Mapping
 The model accesses the database internally through O/R mapping objects. This object will basically be a one-to-one relationship, and will be referred to as an ORM object. It can be represented by a diagram such as the following.
 One record is related to one object. However, there are often cases of one-to-many relationships, (discussed below).
 
-.. image:: ../images/orm.png
+.. image:: images/orm.png
 
 Because the model is a collection of information to be returned to the browser, you need to understand how to access and manipulate the RDB ORM object.
 

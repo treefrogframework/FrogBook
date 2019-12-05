@@ -1,3 +1,5 @@
+TODO: Change this script for Pandoc
+
 @ECHO OFF
 
 REM Command file for Sphinx documentation
